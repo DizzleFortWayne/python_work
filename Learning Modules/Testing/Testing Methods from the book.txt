@@ -1,0 +1,11 @@
+import unitest
+#assert methods available in unittest module
+test_method(unittest.testcase) #inherits from module
+
+ssertEqual(a,b) ##      Verifies that a==b
+assertNotEquals(a,b_)   Verify that a!=b
+assertTrue(x)           verify that x is true
+assertFalse(x)          Verify that x is False
+assertIn(item, list)    Verify that item is in list
+assertNotIn(item, list) Verify that item is not in list
+
